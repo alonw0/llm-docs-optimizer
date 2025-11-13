@@ -2,6 +2,10 @@
 
 A Claude Code skill that makes your documentation work seamlessly with AI coding assistants. Transform generic docs into AI-optimized documentation with measurable quality improvements—scored by [Context7's c7score benchmark](https://www.context7.ai/c7score), structured around developer questions, and enhanced with [LLM-friendly navigation](https://llmstxt.org/).
 
+[![Claude Code](https://img.shields.io/badge/Claude-Code_Skill-violet)](https://claude.ai/code)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Why Use This?
 
 **The Problem:**
