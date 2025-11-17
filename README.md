@@ -26,6 +26,9 @@ This skill transforms your documentation to work seamlessly with AI tools by:
 - AI tools can better understand and recommend your project
 - Measurable before/after quality metrics prove the improvement
 
+## Demo video
+https://github.com/user-attachments/assets/3ad0ff3f-69bc-4553-bbfd-654b0880e3b5
+
 ## Overview
 
 This skill provides comprehensive documentation optimization for AI tools:
